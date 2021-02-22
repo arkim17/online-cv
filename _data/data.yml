@@ -60,7 +60,7 @@ education:
     - degree: B.Sc in Electronics Engineering, Computer Engineering(minor)
       university: Kyungpook National University, Daegu, Republic of Korea
       time: 2016 - 2021
-      details: |
+#      details: |
         
 #          - Bullet point
 #         - Bullet point
@@ -72,7 +72,7 @@ education:
 #         - Bullet point
 #         - Bullet point
 
-projects:
+#projects:
 #   title: Projects
 #   intro: >
 #     
@@ -81,7 +81,7 @@ projects:
 #       link: "#hook"
 #       tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-publications:
+#publications:
 #    title: Publications
 #   intro: |
 #
